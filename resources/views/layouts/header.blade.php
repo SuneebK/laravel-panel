@@ -1,0 +1,3 @@
+
+    <title>Laravel | Layout</title>
+
